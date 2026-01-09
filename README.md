@@ -66,7 +66,7 @@ claude mcp add js-reverse node /你的路径/js-reverse-mcp/build/src/index.js
 code --add-mcp '{"name":"js-reverse","command":"node","args":["/你的路径/js-reverse-mcp/build/src/index.js"]}'
 ```
 
-### Dify (HTTP)
+### Dify (HTTP-改动点) 
 
 先启动 HTTP 桥接层（把 stdio MCP 转成 HTTP MCP）：
 
