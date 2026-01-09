@@ -1,3 +1,6 @@
+# 改动点
+- 新增 HTTP 桥接入口：http-bridge.ts
+- 新增脚本：package.json 里的 start-http-bridge
 # JS Reverse MCP
 
 JavaScript 逆向工程 MCP 服务器，让你的 AI 编码助手（如 Claude、Cursor、Copilot）能够调试和分析网页中的 JavaScript 代码。
